@@ -11,7 +11,7 @@ We will be making the robot as a Master and the Laptop /PC as slave device:
 1. First connect HDMI cable between robot and monitor screen.
 2. Turn on the robot by pressing the switch at back side of robot , this will play a tune from buzzer which assures everything is turned on.
 
-[![Video](https://github.com/rigbetellabs/tortoisebot_pro_max_docs/tree/main/TTB%20PM%20Files/IMG_5349.jpg)](https://github.com/rigbetellabs/tortoisebot_pro_max_docs/tree/main/TTB%20PM%20Files/buzzer_sound.mp4)
+[![Video](https://github.com/rigbetellabs/tortoisebot_pro_max_docs/blob/main/TTB%20PM%20Files/IMG_5349.jpg)](https://github.com/rigbetellabs/tortoisebot_pro_max_docs/tree/main/TTB%20PM%20Files/buzzer_sound.mp4)
 
 1. Once display is turned on connect to Wi-Fi.
 2. Get IP address of TortoiseBot Pro Max by following command:
