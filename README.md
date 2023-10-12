@@ -12,7 +12,11 @@ We will be making the robot as a Master and the Laptop /PC as slave device:
 1. First connect HDMI cable between robot and monitor screen.
 2. Turn on the robot by pressing the switch at back side of robot , this will play a tune from buzzer which assures everything is turned on.
 
-https://github.com/rigbetellabs/tortoisebot_pro_max_docs/assets/68866046/1ea37dad-e672-41fe-9c0b-79dfee692e7f
+
+https://github.com/rigbetellabs/tortoisebot_pro_max_docs/assets/68866046/2c493ec8-bb67-4689-9b6a-07f4356fadd2
+
+
+
 
 1. Once display is turned on connect to Wi-Fi.
 2. Get IP address of TortoiseBot Pro Max by following command:
@@ -84,4 +88,8 @@ Green light on MAINS ON and CHARGER ON indicates that charging process is going 
 
 When battery is low , it will show indication on universal cell indicator as well as buzzer will start beeping as show in video
 
-[WhatsApp Video 2023-10-11 at 6.13.00 PM.mp4](TortoiseBot%20Pro%20Max%20f0ce33822aa94f279912c5c3022acd82/WhatsApp_Video_2023-10-11_at_6.13.00_PM.mp4)
+
+
+https://github.com/rigbetellabs/tortoisebot_pro_max_docs/assets/68866046/8559076f-9bc4-4f4e-8a57-7fbb2fcb2fc0
+
+
