@@ -12,6 +12,7 @@ We will be making the robot as a Master and the Laptop /PC as slave device:
 2. Turn on the robot by pressing the switch at back side of robot , this will play a tune from buzzer which assures everything is turned on.
 
 [WhatsApp Video 2023-10-11 at 5.48.03 PM.mp4](TortoiseBot%20Pro%20Max%20f0ce33822aa94f279912c5c3022acd82/WhatsApp_Video_2023-10-11_at_5.48.03_PM.mp4)
+![Alt Text](https://github.com/rigbetellabs/tortoisebot_pro_max_docs/blob/0b7a283bcde262726d7941b65ee3f1da0a660b30/TortoiseBot%20Pro%20Max%20f0ce33822aa94f279912c5c3022acd82/WhatsApp_Video_2023-10-11_at_5.48.03_PM.mp4)
 
 1. Once display is turned on connect to Wi-Fi.
 2. Get IP address of TortoiseBot Pro Max by following command:
